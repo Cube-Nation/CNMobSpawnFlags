@@ -1,0 +1,9 @@
+name: CNMobSpawnFlagsPlugin
+version: '1.0'
+main: de.cubenation.cnmobspawnflags.CNMobSpawnFlagsPlugin
+api-version: '1.21'
+authors: [ Cube-Nation, Crepez ]
+description: Prevent mob spawning.
+website: www.cube-nation.de
+
+depends: [ WorldGuard ]
